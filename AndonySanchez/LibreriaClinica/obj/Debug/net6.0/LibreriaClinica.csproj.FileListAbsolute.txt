@@ -1,0 +1,12 @@
+C:\Users\1010a\Documents\C#\AndonySanchez\LibreriaClinica\bin\Debug\net6.0\LibreriaClinica.deps.json
+C:\Users\1010a\Documents\C#\AndonySanchez\LibreriaClinica\bin\Debug\net6.0\LibreriaClinica.dll
+C:\Users\1010a\Documents\C#\AndonySanchez\LibreriaClinica\bin\Debug\net6.0\ref\LibreriaClinica.dll
+C:\Users\1010a\Documents\C#\AndonySanchez\LibreriaClinica\bin\Debug\net6.0\LibreriaClinica.pdb
+C:\Users\1010a\Documents\C#\AndonySanchez\LibreriaClinica\obj\Debug\net6.0\LibreriaClinica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1010a\Documents\C#\AndonySanchez\LibreriaClinica\obj\Debug\net6.0\LibreriaClinica.AssemblyInfoInputs.cache
+C:\Users\1010a\Documents\C#\AndonySanchez\LibreriaClinica\obj\Debug\net6.0\LibreriaClinica.AssemblyInfo.cs
+C:\Users\1010a\Documents\C#\AndonySanchez\LibreriaClinica\obj\Debug\net6.0\LibreriaClinica.csproj.CoreCompileInputs.cache
+C:\Users\1010a\Documents\C#\AndonySanchez\LibreriaClinica\obj\Debug\net6.0\LibreriaClinica.dll
+C:\Users\1010a\Documents\C#\AndonySanchez\LibreriaClinica\obj\Debug\net6.0\ref\LibreriaClinica.dll
+C:\Users\1010a\Documents\C#\AndonySanchez\LibreriaClinica\obj\Debug\net6.0\LibreriaClinica.pdb
+C:\Users\1010a\Documents\C#\AndonySanchez\LibreriaClinica\obj\Debug\net6.0\LibreriaClinica.csproj.AssemblyReference.cache

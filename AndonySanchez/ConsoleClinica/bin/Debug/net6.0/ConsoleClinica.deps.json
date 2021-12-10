@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleClinica/1.0.0": {
+        "dependencies": {
+          "LibreriaClinica": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleClinica.dll": {}
+        }
+      },
+      "LibreriaClinica/1.0.0": {
+        "runtime": {
+          "LibreriaClinica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleClinica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaClinica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d9afecc7-09cf-4f3e-b1ed-d7ec5f5fc617": {
+      "ProjectGuid": "d9afecc7-09cf-4f3e-b1ed-d7ec5f5fc617",
+      "DisplayName": "ConsoleClinica",
+      "ColorIndex": 0
+    },
+    "35d5f1bf-5f87-458b-a875-8aad66f12f5f": {
+      "ProjectGuid": "35d5f1bf-5f87-458b-a875-8aad66f12f5f",
+      "DisplayName": "LibreriaClinica",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
